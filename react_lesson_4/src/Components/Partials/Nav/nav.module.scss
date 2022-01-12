@@ -1,0 +1,10 @@
+
+.mynav {
+    display: grid;
+    grid-template-columns: auto;
+    .myatags {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-decoration: none;
+        color:black;
+    }
+}
